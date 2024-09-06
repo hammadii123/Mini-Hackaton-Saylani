@@ -478,6 +478,18 @@
 
 }
 
+.border{
+
+    border-radius: 20px !important;
+    .input-group{
+        display: flex !important;
+    }
+    input{
+        width: auto !important;
+    }
+
+}
+
 .mob {
     padding: 60px;
 }

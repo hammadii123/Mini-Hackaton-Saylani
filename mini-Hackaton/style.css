@@ -281,6 +281,16 @@
   align-content: center;
 }
 
+.border {
+  border-radius: 20px !important;
+}
+.border .input-group {
+  display: flex !important;
+}
+.border input {
+  width: auto !important;
+}
+
 .mob {
   padding: 60px;
 }
